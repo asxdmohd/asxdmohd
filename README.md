@@ -58,17 +58,10 @@
 | [**SuperStore Sales & Forecast**](https://github.com/asxdmohd/superstore-sales-dashboard) | Two-page report analysing US superstore sales, plus a sales forecasting page | Power BI · DAX |
 | [**HR Analytics – Attrition**](https://github.com/asxdmohd/hr-analytics-dashboard) | Employee attrition by department, age, job role and salary band | Power BI · DAX |
 | [**Madhav Store E-commerce**](https://github.com/asxdmohd/madhav-store-sales-dashboard) | Sales, profit and customer analysis for an Indian e-commerce store | Power BI |
-| [**Price Prediction Models**](https://github.com/asxdmohd/Car-Price-Predictor) | ML models predicting [car](https://github.com/asxdmohd/Car-Price-Predictor), [house](https://github.com/asxdmohd/House-Price-Predictor) and [laptop](https://github.com/asxdmohd/Laptop-Price-Predictor) prices, served through web apps | Python · scikit-learn · Streamlit · AWS |
+| [**Price Prediction Models**](https://github.com/asxdmohd/Car-Price-Predictor) | ML models predicting [car](https://github.com/asxdmohd/Car-Price-Predictor), [house](https://github.com/asxdmohd/House-Price-Predictor) and [laptop](https://github.com/asxdmohd/Laptop-Price-Predictor) prices, served through web apps | Python · scikit-learn · Flask · Streamlit · AWS |
 
 ➡️ See all projects on my **[portfolio website](https://asxdmohd.github.io)**.
 
 ---
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asxdmohd&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxdmohd&layout=compact&hide_border=true" height="160" alt="Top languages"/>
-</p>
 
 <p align="center"><i>Thanks for stopping by! Feel free to reach out about data projects or working student opportunities.</i></p>
