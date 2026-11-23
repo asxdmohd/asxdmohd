@@ -15,7 +15,6 @@
 - 📊 ~18 months of industry experience in **data and content analysis** (Cognizant, Aaban Solutions)
 - 🔍 I turn raw data into clear dashboards and insights with **SQL, Python, Power BI and Excel**
 - 💼 Open to **Working Student roles in Data / Business Analytics** in Germany
-- 🌍 English (C1) · German (B1) · Hindi/Urdu (native)
 
 ---
 
